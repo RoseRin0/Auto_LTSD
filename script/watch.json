@@ -1,0 +1,125 @@
+{
+    "actions": [
+      {
+        "type": "click",
+        "data": [
+          2299,
+          1325
+        ],
+        "release_time": "00:44:50",
+        "delay": 0.0,
+        "scale": 3.0,
+        "comment": "release_skill"
+      },
+      {
+        "type": "click",
+        "data": [
+          1151,
+          1325
+        ],
+        "release_time": "00:41:50",
+        "delay": 0.0,
+        "scale": 3.0,
+        "comment": "release_skill"
+      },
+      {
+        "type": "click",
+        "data": [
+          2013,
+          1325
+        ],
+        "release_time": "00:41:00",
+        "delay": 0.0,
+        "scale": 3.0,
+        "comment": "release_skill"
+      },
+      {
+        "type": "click",
+        "data": [
+          1738,
+          1325
+        ],
+        "release_time": "00:36:80",
+        "delay": 0.0,
+        "scale": 3.0,
+        "comment": "release_skill"
+      },
+      {
+        "type": "click",
+        "data": [
+          1420,
+          1325
+        ],
+        "release_time": "00:18:37",
+        "delay": 0.0,
+        "scale": 3.0,
+        "comment": "release_skill"
+      },
+      {
+        "type": "click",
+        "data": [
+          2299,
+          1325
+        ],
+        "release_time": "00:15:00",
+        "delay": 0.0,
+        "scale": 3.0,
+        "comment": "release_skill"
+      },
+      {
+        "type": "click",
+        "data": [
+          2013,
+          1325
+        ],
+        "release_time": "00:11:30",
+        "delay": 0.0,
+        "scale": 3.0,
+        "comment": "release_skill"
+      },
+      {
+        "type": "click",
+        "data": [
+          1151,
+          1325
+        ],
+        "release_time": "00:07:50",
+        "delay": 0.0,
+        "scale": 3.0,
+        "comment": "release_skill"
+      },
+      {
+        "type": "click",
+        "data": [
+          1738,
+          1325
+        ],
+        "release_time": "00:04:80",
+        "delay": 0.0,
+        "scale": 3.0,
+        "comment": "release_skill"
+      }
+    ],
+    "characters": [
+      {
+        "index": 1,
+        "name": "加哈拉德"
+      },
+      {
+        "index": 2,
+        "name": "阿莲"
+      },
+      {
+        "index": 3,
+        "name": "莉莎"
+      },
+      {
+        "index": 4,
+        "name": "梅林"
+      },
+      {
+        "index": 5,
+        "name": "提亚马特"
+      }
+    ]
+  }
